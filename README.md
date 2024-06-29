@@ -13,5 +13,5 @@ This is a simple WebSocket chat application using Spring Boot for the backend an
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/websocket-chat-app.git
-   cd websocket-chat-app
+   git clone https://github.com/Sarthakverse/WebSockets.git
+   cd websockets
