@@ -1,11 +1,12 @@
 
+![Using-WebSockets-for-Real-Time-Updates](https://github.com/Sarthakverse/WebSockets/assets/117356021/a1b03e0d-ccb4-4295-91c7-5ccc1f477159)
 
 # WebSocket Chat Application 
-![images](https://github.com/Sarthakverse/WebSockets/assets/117356021/7175c1f4-75f5-4263-ab02-20bae49c1e7b)
 This is a simple WebSocket chat application using Spring Boot for the backend and plain JavaScript for the frontend. The application allows users to join a chat room and exchange messages in real-time.
 
 ## Demo
 https://youtu.be/dksh9NSrC_Y
+
 ![message-flow-broker-relay](https://github.com/Sarthakverse/WebSockets/assets/117356021/709f95c7-0d5e-47fc-9043-3f34526339c7)
 
 
